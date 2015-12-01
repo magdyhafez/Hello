@@ -8,4 +8,4 @@ int main()
 
 Revision four
 
-pushing changes /fetch
+pushing changes /fetch/pull
